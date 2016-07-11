@@ -1,2 +1,2 @@
 # ExplorePython
-Learning Python
+1 program of Python a day
